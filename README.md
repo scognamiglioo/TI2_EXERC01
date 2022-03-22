@@ -1,4 +1,4 @@
-## PROJETO 1 - T
+## PROJETO 1 - Integração Eclipse e GitHub
 Esta tarefa consiste na criação de um programa em Java utilizando o ambiente de desenvolvimento Eclipse, sendo que os alunos devem:
 
 > Criar um novo projeto Java.
